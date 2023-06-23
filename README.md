@@ -1,1 +1,2 @@
 # Classification
+This project helps us predict whether any individual is at risk of getting diabetic or not depending on the features of an individual, features such as BMI, gender, hypertension, heart disease, smoking history etc. Whether these feature are affecting in people in developing diabetes or not. And how much affect they are having. This can be useful for healthcare professionals in identifying patients who may be at risk of developing diabetes and in developing personalized treatment plans.
